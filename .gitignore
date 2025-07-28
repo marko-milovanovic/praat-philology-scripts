@@ -1,0 +1,10 @@
+# macOS
+#
+.DS_Store
+
+# testing
+#
+**/_Input/
+**/_Output/
+**/_Data/
+**/_Untracked/
